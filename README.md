@@ -10,7 +10,7 @@ mkdir -p /var/lib/marzban/assets/
 
 Скачиваем 
 ```
-wget -O /var/lib/marzban/assets/ru.dat FILELINK
+wget -O /var/lib/marzban/assets/ru.dat https://github.com/Iambabyninja/geosite_ru/releases/latest/download/ru.dat
 ```
 
 Устанавливаем значение в .env файле
