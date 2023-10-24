@@ -77,7 +77,7 @@ wget -O /var/lib/marzban/assets/ru.dat https://github.com/Iambabyninja/geosite_r
 
 Переходим в папку контейнера
 ```
-cd ~/Marzban-node
+cd /opt/Marzban-node
 ```
 
 Редактируем файл docker-compose.yml
